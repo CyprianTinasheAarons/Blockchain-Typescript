@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/bc101.ts"
+    "start": "ts-node src/proof_of_work.ts"
   },
   "keywords": [],
   "author": "",
